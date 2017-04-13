@@ -12,15 +12,6 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-
-    // 123 1231 2313
-    // 1231 231
-    // 65 65 65
-    //
-    // 123 1231 2313
-    // 1231 231
-    // 65 65 65
-    //
     
     // This is first project to use git repository // This is by Ramani Ashish
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
